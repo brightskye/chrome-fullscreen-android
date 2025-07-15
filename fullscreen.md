@@ -1,3 +1,3 @@
 ## Copy and paste following into chrome url
 
-<code>javascript:(function(){ document.querySelector("body").requestFullscreen().then(() => { document.querySelector("body").style.overflow = "auto"; }); } )();</code>
+<code>javascript:(function(){document.querySelector("body").requestFullscreen().then(()=>{document.querySelector("body").style.overflow="auto";});})();</code>
