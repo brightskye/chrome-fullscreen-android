@@ -7,3 +7,6 @@
 - Create an empty bookmark in chrome with an easy to remember name. Paste the same code into bookmark url
 - Visit your desired webpage
 - Search url with the bookmark name and select the script to open full scren
+
+Credit: 
+[https://android.stackexchange.com/questions/175329/force-fullscreen-mode-in-chrome-for-android]
